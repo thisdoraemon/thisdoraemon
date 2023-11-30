@@ -18,10 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thisdoraemon.thisdoraemon&"  />
-</div>
-
 ###
 
 <h1 align="center">Hey! I'm Doraemon 👋</h1>
