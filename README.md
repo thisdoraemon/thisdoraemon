@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Ezra, also known online as Doraemon. I am a programmer based in Indonesia.<br><br>- 🔭  I’m working as a Fullstack Engineer.<br>- 📚  I'm currently learning ML/AI and Backend Development.<br>- ⚡ In my free time, I code.</p>
+<p align="left">I'm Ezra, also known online as Doraemon. I am a programmer based in Indonesia.<br><br>- 🔭  I’m working as a Backend Engineer.<br>- 📚  I'm currently learning DevOps and Backend Development.<br>- ⚡ In my free time, I code.</p>
 
 ###
 
